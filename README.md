@@ -7,3 +7,6 @@
 - Traditional education often lacks the flexibility to accommodate diverse learning styles, causing students to struggle with topics that don’t align with their pace or preferences. This project aims to develop an AI-driven platform that adapts to each student’s needs, optimizing learning outcomes through personalized, interactive, and responsive content.
 # Design Template
 [CodeCycle.pdf](https://github.com/user-attachments/files/17609704/CodeCycle.pdf)
+# Output
+We had developed a website and wrote a code to address the problem statement.
+![image](https://github.com/user-attachments/assets/6e4190d4-7161-42a1-ac66-36e18420d2f0)
