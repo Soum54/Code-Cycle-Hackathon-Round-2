@@ -1,6 +1,6 @@
 # Code Cycle Hackathon
-- In first round we had given various tasks to do like deep learning coding , crytography and gained points thus selected for this round 2 Hackathon.
-- In Second round we had given a problem statement and asked to prepare solution for the same.Thus we had developed a few things within the duration given to us.See below that showed in brief.
+- In the first round, we were given various tasks, such as deep learning coding and cryptography. We earned points for each task, which led to our selection for the second round of the hackathon.
+- In the second round, we were given a problem statement and asked to prepare a solution for it. We developed several components within the given timeframe, as summarized briefly below.
 
 ![WhatsApp Image 2024-11-03 at 13 15 04_342db0ca](https://github.com/user-attachments/assets/f1d61ae9-1c39-4ace-bf4c-785f15c18c5f)
 # Problem Statement
