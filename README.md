@@ -11,6 +11,11 @@
 We had developed a website and wrote a code to address the problem statement.
 ![image](https://github.com/user-attachments/assets/6e4190d4-7161-42a1-ac66-36e18420d2f0)
 ## Video
+
+
+https://github.com/user-attachments/assets/b59721fa-6a81-4f4d-8583-75ceedca9775
+
+
 ## Deep Learning Output(Recommendation System)
 ![WhatsApp Image 2024-11-03 at 13 46 39_3bed7c9d](https://github.com/user-attachments/assets/33a2fea9-e734-47f4-8fbb-94aa6f61e77f)
 ![WhatsApp Image 2024-11-03 at 13 46 39_9c3682b1](https://github.com/user-attachments/assets/189e4331-9e7e-432f-a5f9-85ebee668b41)
